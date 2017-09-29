@@ -16,3 +16,4 @@ Bean - A Spring configured POJO
 
 InternalResourceViewResolver - get .jsp and server for user
  
+ http://localhost:8080/greeting.html
