@@ -1,8 +1,8 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="spring_mvc:war">
+  <artifact type="war" name="FitnessTracker:war">
     <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="FitnessTracker.war">
-      <element id="artifact" artifact-name="spring_mvc:war exploded" />
+      <element id="artifact" artifact-name="FitnessTracker:war exploded" />
     </root>
   </artifact>
 </component>
